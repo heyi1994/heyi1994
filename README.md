@@ -1,7 +1,7 @@
 # Melrose
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=前端开发工程师;Flutter%20%7C%20Android%20%7C%20Shader;热爱图形与底层技术;持续构建有趣的东西&center=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter开发工程师;前端开发工程师%20%7C%20Android%20%7C%20Shader;热爱图形与底层技术;持续构建有趣的东西&center=true&size=22">
 </p>
 
 ---
