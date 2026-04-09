@@ -8,7 +8,7 @@
 
 ## 关于我
 
-*  Android/ Flutter / 前端 开发者
+*  Flutter(🎯) / Android / CLI / 前端 开发者
 *  对 **逆向工程 / 安全研究 / 系统底层** 感兴趣
 *  正在深入学习 **Rust / GLSL Shader / 游戏开发**
 *  热衷于 **视觉效果 / 动画 / 实时渲染**
