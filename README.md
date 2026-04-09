@@ -8,8 +8,9 @@
 
 ## 关于我
 
-*  Flutter(🎯) / Android / CLI / 前端 开发者
+*  **Flutter 🎯** / Android / CLI / 前端 开发者
 *  对 **逆向工程 / 安全研究 / 系统底层** 感兴趣
+*  AI工具爱好者 **Claude Code 🎯** / Codex
 *  正在深入学习 **Rust / GLSL Shader / 游戏开发**
 *  热衷于 **视觉效果 / 动画 / 实时渲染**
 *  专注 **性能优化 / 渲染机制 / 底层实现**
