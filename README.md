@@ -8,7 +8,7 @@
 
 ## 关于我
 
-*  前端 / Android（Kotlin）/ Flutter 开发者
+*  Android/ Flutter / 前端 开发者
 *  对 **逆向工程 / 安全研究 / 系统底层** 感兴趣
 *  正在深入学习 **Rust / GLSL Shader / 游戏开发**
 *  热衷于 **视觉效果 / 动画 / 实时渲染**
@@ -20,13 +20,15 @@
 ## 技术栈
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,kotlin,rust,java,flutter,dart,react,vite,webpack,git">
+  <img src="https://skillicons.dev/icons?i=kotlin,rust,java,flutter,dart,react,js,ts,vite,webpack,git">
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/-逆向工程-grey?style=flat-square">
   <img src="https://img.shields.io/badge/-Frida-black?style=flat-square">
   <img src="https://img.shields.io/badge/-Xposed-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/-IDA-red?style=flat-square">
+  <img src="https://img.shields.io/badge/-Jadx-green?style=flat-square">
 </p>
 
 ---
